@@ -23,7 +23,7 @@ Tengo experiencia en:
 Me gusta encontrar bugs 🐞 y ayudar a mejorar la calidad del software.
 
 
-📫 Contacto
+📫 Contacto: +52 92-12-98-95-98
 
 📧 Email: 9381010420az@gmail.com  
 
