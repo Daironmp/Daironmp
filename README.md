@@ -10,7 +10,7 @@ Me enfoco en asegurar la calidad del software mediante pruebas manuales y de API
 
 👨‍💻 Sobre mí
 
-Soy QA Engineer Jr con formación en aseguramiento de calidad de software.
+Soy QA Engineer Jr con una misión , garantizar la calidad óptima del producto..
 
 Tengo experiencia en:
 
