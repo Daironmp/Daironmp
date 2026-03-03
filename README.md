@@ -20,7 +20,7 @@ Tengo experiencia en:
 - Diseño de casos de prueba
 - Validación de aplicaciones web
 
-Me gusta encontrar bugs 🐞 y ayudar a mejorar la calidad del software.
+Me enfoco en la detección temprana de defectos, validación de requisitos mediante pruebas funcionales, pruebas de API y análisis de resultados.
 
 
 📫 Contacto: +52 92-12-98-95-98
