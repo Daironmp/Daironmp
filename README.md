@@ -64,7 +64,7 @@ Me interesa participar en proyectos donde pueda contribuir al desarrollo de soft
  **Teléfono:** +52 92-12-98-95-98
 
  **LinkedIn:**
-<https://github.com/DaironmpPRIVATE_URL>
+<https://github.com/Daironmp
 
 💻 **GitHub:**
-<https://github.com/DaironmpPRIVATE_URL>
+<https://github.com/Daironmp
